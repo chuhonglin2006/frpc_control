@@ -4,7 +4,7 @@ auth.method = "token"
 auth.token = "" # token
 
 [[proxies]]
-name = "test"
+name = "control"
 type = "tcp"
 localIP = "127.0.0.1"
 localPort = 8000
